@@ -1,0 +1,8 @@
+c:\users\justin\documents\visual studio 2012\Projects\CrossOver\CrossOver\bin\Debug\CrossOver.exe
+c:\users\justin\documents\visual studio 2012\Projects\CrossOver\CrossOver\bin\Debug\CrossOver.pdb
+c:\users\justin\documents\visual studio 2012\Projects\CrossOver\CrossOver\obj\Debug\CrossOver.csprojResolveAssemblyReference.cache
+c:\users\justin\documents\visual studio 2012\Projects\CrossOver\CrossOver\obj\Debug\CrossOver.Form1.resources
+c:\users\justin\documents\visual studio 2012\Projects\CrossOver\CrossOver\obj\Debug\CrossOver.Properties.Resources.resources
+c:\users\justin\documents\visual studio 2012\Projects\CrossOver\CrossOver\obj\Debug\CrossOver.csproj.GenerateResource.Cache
+c:\users\justin\documents\visual studio 2012\Projects\CrossOver\CrossOver\obj\Debug\CrossOver.exe
+c:\users\justin\documents\visual studio 2012\Projects\CrossOver\CrossOver\obj\Debug\CrossOver.pdb
